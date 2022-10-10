@@ -1,0 +1,10 @@
+.background{
+    height: 100vh;
+    background: black;
+    font-size: 40px;
+    display: flex;
+    justify-content: center;
+}
+.title{
+    color: aliceblue;
+}
